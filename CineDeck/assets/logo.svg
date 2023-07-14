@@ -1,0 +1,11 @@
+<svg width="320" height="240" viewBox="-200 -400 1800 1376" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="260" cy="260" r="250" stroke="#fff8e7" stroke-width="20"/>
+<path d="M263 510H693" stroke="#fff8e7" stroke-width="20"/>
+<text fill="#F7F3E3" font-family="Ubuntu Medium,Ubuntu Medium_MSFontService,sans-serif" font-weight="500" font-size="200" transform="matrix(1 0 0 1 550 340)">CineDeck</text>
+<circle cx="260" cy="263" r="40" stroke="#fff8e7" stroke-width="20"/>
+<circle cx="260" cy="263" r="16" fill="#fff8e7"/>
+<circle cx="116" cy="263" r="70" stroke="#fff8e7" stroke-width="20"/>
+<circle cx="260" cy="407" r="70" stroke="#fff8e7" stroke-width="20"/>
+<circle cx="404" cy="263" r="70" stroke="#fff8e7" stroke-width="20"/>
+<circle cx="260" cy="119" r="70" stroke="#fff8e7" stroke-width="20"/>
+</svg>
